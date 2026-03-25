@@ -10,10 +10,8 @@ A **production-style backend system** built using FastAPI to manage products, in
 
 ## 🌍 Live Demo
 
-* API Base URL: 
-* Swagger Docs: 
-
-> *(Update these links after deployment)*
+* API Base URL: https://inventory-api-camq.onrender.com
+* Swagger Docs: https://inventory-api-camq.onrender.com/docs
 
 ---
 
@@ -68,7 +66,7 @@ inventory_api/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/inventory-api.git
+git clone https://github.com/Fishimal/inventory-api.git
 cd inventory-api
 ```
 
